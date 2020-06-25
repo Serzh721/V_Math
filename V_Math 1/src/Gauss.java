@@ -1,7 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
-
-import java.util.function.DoubleToIntFunction;
-
 public class Gauss {
 
     private int size;
